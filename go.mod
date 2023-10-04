@@ -1,4 +1,4 @@
-module github.com/thomaspoignant/go-feature-flag
+module github.com/ronnpang1/go-feature-flag
 
 go 1.18
 
@@ -38,6 +38,7 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/swaggo/echo-swagger v1.4.1
 	github.com/swaggo/swag v1.16.2
+	github.com/thomaspoignant/go-feature-flag v1.15.2
 	github.com/xitongsys/parquet-go v1.6.2
 	github.com/xitongsys/parquet-go-source v0.0.0-20230830030807-0dd610dbff1d
 	go.uber.org/zap v1.26.0
