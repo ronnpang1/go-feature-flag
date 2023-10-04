@@ -1,4 +1,6 @@
-//go:build !race
+//go:build 
+// +build
+!race
 
 package cache_test
 
